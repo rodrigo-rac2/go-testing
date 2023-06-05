@@ -1,0 +1,7 @@
+mode: set
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:8.13,11.16 2 0
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:11.16,14.3 2 0
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:15.2,15.46 1 0
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:19.44,20.14 1 1
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:20.14,22.3 1 1
+github.com/anthemse/rodrigo_sandbox/go_testing/main.go:23.2,23.19 1 1
